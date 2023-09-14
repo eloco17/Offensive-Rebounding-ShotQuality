@@ -22,7 +22,7 @@ In my exploration of this problem, here is my thorough approach:
 
 2. <u>Distance Features</u>:              Calculated distances between key players and positions to observe disadvantages and advantages in obtaining an offensive board.
 
-3. <u>Complex Feature Engineering</u>   Developed features using the results of EDA and basketball intuition
+3. <u>Complex Feature Engineering</u>:   Developed features using the results of EDA and basketball intuition
 
 4. <u>Tuning and Model Valuation</u>:        Tuning hyperparameters using crossvalidation. Evaluating multiple models.
 
